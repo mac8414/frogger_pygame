@@ -1,0 +1,92 @@
+# Changes Made on 12/6
+---Added levels switching when frogger reaches end. Just hit space bar
+---Change pygame.image.smoothscale and took it out, so that we can add images that have transparency, using make
+------map function. I don't think we need the pygam.image.smoothscale because we have our images perfectly tailored
+------to our window.
+
+
+
+
+
+
+
+4- Add frogger movement with logs
+5- Documentation
+
+
+Not code:
+- Make text file explaining game
+- Make video showing off and explaining game
+
+
+
+
+
+
+Def pixel_collision():
+
+
+
+Def create frog:
+
+
+
+Def draw frog:
+
+
+
+Def move frog:
+
+
+
+Def create moving_damages:
+
+
+
+Def create moving_supports:
+
+
+
+Def draw_moving_objects:
+
+
+
+Def move_moving_objects:
+
+
+
+Def draw_image_centered:
+
+
+
+Def join_forg_with_moving_object:
+
+
+
+Def bounds:
+
+
+
+
+# if level == 1:
+                #     is_started = False
+                #     game_objects["map1"]["visible"] = False
+                #     level += 1
+                #     game_objects["frogger"]["pos"] = Vector2(WIDTH // 2, BOTTOM_EDGE)
+                # elif level == 2:
+                #     is_started = False
+                #     game_objects["map2"]["visible"] = False
+                #     level += 1
+                #     game_objects["frogger"]["pos"] = Vector2(WIDTH // 2, BOTTOM_EDGE)
+                # elif level == 3:
+                #     is_started = False
+                #     game_objects["map3"]["visible"] = False
+                #     level += 1
+                # elif level == 4:
+                #     is_started = False
+                #     game_objects["map4"]["visible"] = False
+                #     level += 1
+                # elif level == 5:
+                #     is_started = False
+                #     game_objects["map5"]["visible"] = False
+                #     level += 1

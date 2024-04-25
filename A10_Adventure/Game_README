@@ -1,0 +1,37 @@
+Game Name: Frogger?!
+By Charbel Salloum and Mckay Hunter
+
+
+The theme of the game is based on a preexisting game called FROGGER. The goal i to get the FROGGER across 4 different dimensions (4 levels).
+All levels have the same objective of getting the FROGGER to the other side, but each level has its own challenges.
+
+Level 1: go through the maze of rocks, with the goal of reaching the end. And there is only one way to reach the end although it looks like there are more!
+
+Level 2: try to reach the end avoiding the moving cars. If the FROGGER gets hit, you lose the game.
+
+Level 3: try to reach the end by again dodging the cars, and crossing the lava by hopping on moving logs
+
+Level 4: just like level 3, just FASTER!
+
+
+
+Hours spent making the game: 35 hours
+
+
+Successes: It felt very rewarding to complete every part of this game.
+We found it easy to get objects to go through the create, update, and draw cycle once we got it done for the frogger.
+We encountered many challenges that we eventually overcame and found answers to, which was very rewarding.
+
+Challenges: It was hard to make some aspects work without any help.
+For example, we struggled to get the FROGGER movement to work in a way so it FROGGER can’t move diagonally and hops instead of walks.
+Also, it was a struggle to understand how to make and spawn in all cars without doing it individually.
+We had similar struggles with the Object collision of the logs.
+
+
+
+Pros of working with a partner: Having different perspectives to overcome challenges and create more efficient code.
+
+Cons of working with a partner: Trying to align schedules to work together.
+
+What we can do better for the future is plan out all the days we are free and create a chart of what we will work on
+for those days and see where we might need extra help to go to TA hours.
